@@ -221,7 +221,6 @@ Java Full Stack Developer | Spring Boot Developer
 📍 Pune, Maharashtra, India
 
 - GitHub: [PrajwalKhandekar23](https://github.com/PrajwalKhandekar23)
-- LinkedIn: [Add Your LinkedIn Profile](YOUR_LINKEDIN_URL)
 
 ---
 
